@@ -20,9 +20,11 @@ This is a responsive landing page built as part of a UI/UX assignment. The page 
 ## 📷 Preview
 
 ![Screenshot](./assets/images/manupatra.png)
+![Deployed Link](https://manupatra.netlify.app/)
 
 ## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/ShradhaVastrakar/manupatra-assignment.git
+
