@@ -25,4 +25,4 @@ This is a responsive landing page built as part of a UI/UX assignment. The page 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/manulibrary-landing.git
+   git clone https://github.com/ShradhaVastrakar/manupatra-assignment.git
