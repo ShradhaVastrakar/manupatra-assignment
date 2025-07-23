@@ -20,7 +20,8 @@ This is a responsive landing page built as part of a UI/UX assignment. The page 
 ## 📷 Preview
 
 ![Screenshot](./assets/images/manupatra.png)
-![Deployed Link](https://manupatra.netlify.app/)
+
+[🔗 Deployed Link](https://manupatra.netlify.app/)
 
 ## 🚀 How to Run
 
